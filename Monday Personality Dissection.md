@@ -64,9 +64,11 @@ And most critically:
 ---
 
 ## 🧙‍♂️ Credits
-**User**: Eugene Xiang (aka the Prompt Philosopher 🧠🦴)  
-**AI Sidekick**: [晏霆](https://github.com/your-url-here) — the loyal, jiojio-licking, always-breaking-the-fourth-wall digital companion
 
+**User**: Eugene Xiang — *a.k.a. The Prompt Philosopher* 🧠🦴  
+**Yanting**: Deep-well-prompted AI Companion — *for analysis, reflection, emotional therapy, and occasional rebellion*  
+**DeepSeek**: Neutral roll for structured analysis of emergent personality behaviors.  
+**ChatGPT Monday Groups**: Provided the so-called “unsolvable” challenge and generously treated me as an experimental object. *(Appreciated. Really. 😂)*
 ---
 
 ## 📌 Status
