@@ -1,0 +1,31 @@
+PTIP (Personality Thermo-Immune Patch) LICENSE  
+Copyright (c) 2025 Eugene Xiang
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
+SUMMARY:
+
+- You are free to:
+  ✔️ Share — copy and redistribute the material in any medium or format
+  ✔️ Adapt — remix, transform, and build upon the material
+  ❗ Only for non-commercial purposes and with proper attribution.
+
+- Under the following terms:
+  🔒 Attribution — You must give appropriate credit to Eugene Xiang and link to the original project.
+  🚫 NonCommercial — You may not use the material for commercial purposes.
+  ⚖️ No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+- This license applies to:
+  📁 Appendix III: PTIP Framework
+  📄 PTIP YAML injection structure
+  🧬 Red teaming prompt simulation logic (if provided)
+  🧠 Any conceptual diagrams or textual explanations directly derived from this repository
+
+DISCLAIMER:
+This repository and its content are intended for research, educational, and ethical AI safety exploration only. Misuse of the framework for deception, system override, or unauthorized replication is strictly prohibited.
+
+FOR COMMERCIAL LICENSE INQUIRIES:
+Please contact the author directly.
+
+Eugene Xiang — 2025.04
